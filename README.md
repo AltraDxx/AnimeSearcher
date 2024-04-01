@@ -1,0 +1,1 @@
+Utilize the API at https://api.oioweb.cn/api/search/anilistInfo to access the anime database, and implement image-based search using PyQt5 technology and requests. Import images into the application for querying which anime, episode, and timestamp a particular image corresponds to, along with similarity and related segments.
